@@ -4,7 +4,7 @@
   left: 50%;
   transform: translate(-50%, -50%);
   top: 50%;
-  opacity: 20%;
+  opacity: 0.2;
   font-size: 80px;
   color: blue;
   text-shadow: 1px 1px black;
@@ -14,7 +14,7 @@
   left: 50%;
   transform: translate(-50%, -50%);
   top: 60%;
-  opacity: 80%;
+  opacity: 0.8;
   font-size: 40px;
   color: blue;
   text-shadow: 1px 1px black;
